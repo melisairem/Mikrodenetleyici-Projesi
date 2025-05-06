@@ -43,5 +43,5 @@ Ayrıca projede kullanılan devre şemaları ve fiziksel donanımın görselleri
 
 ℹ️ Not
 
-Bu proje bir üniversite dersi (OOP / Python) kapsamında geliştirilmiştir. Eğitim ve gösterim amacıyla paylaşılmıştır.
+Bu proje bir üniversite dersi (Mikrodenetleyiciler) kapsamında geliştirilmiştir. Eğitim ve gösterim amacıyla paylaşılmıştır.
 
